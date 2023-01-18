@@ -32,7 +32,7 @@ description: Use Configuration Manager to deploy the configuration package on de
 
 2. In the navigation pane, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2174201" target="_blank">**Settings**</a> > **Device Onboarding** > **Onboarding**.
 
-3. In the **Deployment method** field, select **Microsoft Endpoint Configuration Manager 2012/2012 R2/1511/1602**.
+3. In the **Deployment method** field, select **Microsoft Endpoint Configuration Manager**.
 
 4. Select **Download package**, and save the .zip file.
 
